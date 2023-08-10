@@ -1,4 +1,5 @@
-# Pull base image 
+# Pull base image from docker:wq
+ 
 From tomcat:8-jre8 
 
 # Maintainer 
