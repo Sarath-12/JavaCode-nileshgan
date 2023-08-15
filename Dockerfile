@@ -1,5 +1,6 @@
 # Pull base image from docker:wq
-#my second commit 
+#my second commit
+#this is third commit 
 From tomcat:8-jre8 
 
 # Maintainer 
